@@ -307,7 +307,7 @@ Ores:
           sell-price: 3.0
         '23':
           type: SHOP
-          id: COAL
+          id: IRON_INGOT
           sell-price: 3.0
         '24':
           type: SHOP
