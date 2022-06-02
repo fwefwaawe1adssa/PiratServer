@@ -126,7 +126,7 @@ economy:
   member-fee-enabled: true
   member-fee-last-minute-change-interval: 8
   max-member-fee: 50000.0
-  upkeep: 5000.0
+  upkeep: 1000.0
   upkeep-enabled: true
   multiply-upkeep-by-clan-size: true
   charge-upkeep-only-if-member-fee-enabled: false
