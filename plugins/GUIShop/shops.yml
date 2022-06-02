@@ -111,13 +111,8 @@ Raiding:
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
         '19':
-          type: COMMAND
-          id: PISTON
-          shop-name: '&4Example command item (Kill)'
-          sell-price: 3.0
-          commands:
-            - 'kill %player_name%'
-            - 'broadcast %player_name% Tested the Suicide Item'
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
         '20':
           type: SHOP
           id: REDSTONE_BLOCK
@@ -173,9 +168,8 @@ Raiding:
           id: FIRE_CHARGE
           sell-price: 3.0
         '34':
-          type: SHOP
-          id: CREEPER_SPAWN_EGG
-          sell-price: 3.0
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
