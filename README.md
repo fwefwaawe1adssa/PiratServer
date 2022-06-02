@@ -8,7 +8,7 @@
 Эти моды ты должен закинуть себе в папку .minecraft/mods, для комфортной игры.
 Я рекомендую использовать клиент поддерживающий fabric
 
-- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files)
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3795645)
 
 
 ### Сервер моды
