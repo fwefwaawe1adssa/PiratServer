@@ -15,7 +15,7 @@
 Эти моды использует сервер, тебе нужно прочитать их вики чтобы понять как пользоваться командами.
 
 - [Мод для кланов](https://simpleclans.gitbook.io/simpleclans/commands-and-permissions/commands)
-- [Мод приватов кланов](https://www.spigotmc.org/resources/landlord-4.44398/)
+- [Мод приватов](https://www.spigotmc.org/resources/landlord-4.44398/)
 - [Мод торговли](https://www.spigotmc.org/resources/guishop.2451/)
 
 
