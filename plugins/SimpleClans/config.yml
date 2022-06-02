@@ -103,7 +103,7 @@ commands:
 economy:
   creation-price: 5000.0
   purchase-clan-create: true
-  verification-price: 100000.0
+  verification-price: 10000.0
   purchase-clan-verify: true
   invite-price: 1000.0
   purchase-clan-invite: true

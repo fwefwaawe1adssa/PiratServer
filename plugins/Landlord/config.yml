@@ -672,7 +672,7 @@ Manage:
     item: DIAMOND_SWORD
     default:
       friends: true
-      everyone: false
+      everyone: true
   spread-flags:
     enable: true
     item: BOW
