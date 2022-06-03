@@ -48,6 +48,189 @@
 #                     See in the Dictionary folder                        #
 ###########################################################################
 
+Fishing:
+  title: '&4Fishing'
+  pages:
+    Page0:
+      items:
+        '0':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '1':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '2':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '3':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '4':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '5':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '6':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '7':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '8':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '9':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '10':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '11':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '12':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '13':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '14':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '15':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '16':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '17':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '18':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '19':
+          type: SHOP
+          id: PUFFERFISH_BUCKET
+          sell-price: 3.0
+        '20':
+          type: SHOP
+          id: COD_BUCKET
+          sell-price: 3.0
+        '21':
+          type: SHOP
+          id: TROPICAL_FISH_BUCKET
+          sell-price: 3.0
+        '22':
+          type: SHOP
+          id: AXOLOTL_BUCKET
+          sell-price: 3.0
+        '23':
+          type: SHOP
+          id: HEART_OF_THE_SEA
+          sell-price: 3.0
+        '24':
+          type: SHOP
+          id: NAUTILUS_SHELL
+          sell-price: 3.0
+        '25':
+          type: SHOP
+          id: FISHING_ROD
+          sell-price: 3.0
+        '26':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '27':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '28':
+          type: SHOP
+          id: PUFFERFISH
+          sell-price: 3.0
+        '29':
+          type: SHOP
+          id: TROPICAL_FISH
+          sell-price: 3.0
+        '30':
+          type: SHOP
+          id: SALMON
+          sell-price: 3.0
+        '31':
+          type: SHOP
+          id: COD
+          sell-price: 3.0
+        '32':
+          type: SHOP
+          id: NAME_TAG
+          sell-price: 3.0
+        '33':
+          type: SHOP
+          id: SADDLE
+          sell-price: 3.0
+        '34':
+          type: SHOP
+          id: LILY_PAD
+          sell-price: 3.0
+        '35':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '36':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '37':
+          type: SHOP
+          id: INK_SAC
+          sell-price: 3.0
+        '38':
+          type: SHOP
+          id: GLOW_INK_SAC
+          sell-price: 3.0
+        '39':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '40':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '41':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '42':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '43':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '44':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '45':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '46':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '47':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '48':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '49':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '50':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '51':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '52':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '53':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
 Raiding:
   title: '&4Raiding &bShop'
   pages:
@@ -1661,19 +1844,19 @@ Blocks:
           sell-price: 3.0.0
         '18':
           type: SHOP
-          id: BIRCH_WOOD
+          id: MAGMA_BLOCK
           sell-price: 3.0.0
         '19':
           type: SHOP
-          id: JUNGLE_WOOD
+          id: PRISMARINE
           sell-price: 3.0.0
         '20':
           type: SHOP
-          id: ACACIA_WOOD
+          id: PRISMARINE_BRICKS
           sell-price: 3.0.0
         '21':
           type: SHOP
-          id: DARK_OAK_WOOD
+          id: DARK_PRISMARINE
           sell-price: 3.0.0
         '22':
           type: SHOP
@@ -1901,53 +2084,278 @@ Blocks:
           id: PURPLE_STAINED_GLASS
           sell-price: 3.0
         '26':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: OAK_WOOD
+          sell-price: 3.0
         '27':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: SPRUCE_WOOD
+          sell-price: 3.0
         '28':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: BIRCH_WOOD
+          sell-price: 3.0
         '29':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: JUNGLE_WOOD
+          sell-price: 3.0
         '30':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: DARK_OAK_WOOD
+          sell-price: 3.0
         '31':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: ACACIA_WOOD
+          sell-price: 3.0
         '32':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: STRIPPED_OAK_LOG
+          sell-price: 3.0
         '33':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: STRIPPED_SPRUCE_LOG
+          sell-price: 3.0
         '34':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: STRIPPED_BIRCH_LOG
+          sell-price: 3.0
         '35':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: STRIPPED_JUNGLE_LOG
+          sell-price: 3.0
         '36':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: STRIPPED_ACACIA_LOG
+          sell-price: 3.0
         '37':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: STRIPPED_DARK_OAK_LOG
+          sell-price: 3.0
         '38':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: STRIPPED_CRIMSON_STEM
+          sell-price: 3.0
         '39':
+          type: SHOP
+          id: STRIPPED_WARPED_STEM
+          sell-price: 3.0
+        '40':
+          type: SHOP
+          id: STRIPPED_OAK_WOOD
+          sell-price: 3.0
+        '41':
+          type: SHOP
+          id: STRIPPED_SPRUCE_WOOD
+          sell-price: 3.0
+        '42':
+          type: SHOP
+          id: STRIPPED_BIRCH_WOOD
+          sell-price: 3.0
+        '43':
+          type: SHOP
+          id: STRIPPED_JUNGLE_WOOD
+          sell-price: 3.0
+        '44':
+          type: SHOP
+          id: STRIPPED_ACACIA_WOOD
+          sell-price: 3.0
+        '45':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
-        '40':
+        '46':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
-        '41':
+        '47':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
+        '48':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '49':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '50':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '51':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+        '52':
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
+        '53':
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
+    Page2:
+      items:
+        '0':
+          type: SHOP
+          id: STRIPPED_DARK_OAK_WOOD
+          sell-price: 3.0
+        '1':
+          type: SHOP
+          id: STRIPPED_CRIMSON_HYPHAE
+          sell-price: 3.0
+        '2':
+          type: SHOP
+          id: STRIPPED_WARPED_HYPHAE
+          sell-price: 3.0
+        '3':
+          type: SHOP
+          id: BLACKSTONE
+          sell-price: 3.0
+        '4':
+          type: SHOP
+          id: POLISHED_BLACKSTONE
+          sell-price: 3.0
+        '5':
+          type: SHOP
+          id: CHISELED_POLISHED_BLACKSTONE
+          sell-price: 3.0
+        '6':
+          type: SHOP
+          id: POLISHED_BLACKSTONE_BRICKS
+          sell-price: 3.0
+        '7':
+          type: SHOP
+          id: CRACKED_POLISHED_BLACKSTONE_BRICKS
+          sell-price: 3.0
+        '8':
+          type: SHOP
+          id: WHITE_TERRACOTTA
+          sell-price: 3.0
+        '9':
+          type: SHOP
+          id: ORANGE_TERRACOTTA
+          sell-price: 3.0
+        '10':
+          type: SHOP
+          id: MAGENTA_TERRACOTTA
+          sell-price: 3.0
+        '11':
+          type: SHOP
+          id: LIGHT_BLUE_TERRACOTTA
+          sell-price: 3.0
+        '12':
+          type: SHOP
+          id: YELLOW_TERRACOTTA
+          sell-price: 3.0
+        '13':
+          type: SHOP
+          id: LIME_TERRACOTTA
+          sell-price: 3.0
+        '14':
+          type: SHOP
+          id: PINK_TERRACOTTA
+          sell-price: 3.0
+        '15':
+          type: SHOP
+          id: GRAY_TERRACOTTA
+          sell-price: 3.0
+        '16':
+          type: SHOP
+          id: LIGHT_GRAY_TERRACOTTA
+          sell-price: 3.0
+        '17':
+          type: SHOP
+          id: CYAN_TERRACOTTA
+          sell-price: 3.0
+        '18':
+          type: SHOP
+          id: PURPLE_TERRACOTTA
+          sell-price: 3.0
+        '19':
+          type: SHOP
+          id: BLUE_TERRACOTTA
+          sell-price: 3.0
+        '20':
+          type: SHOP
+          id: BROWN_TERRACOTTA
+          sell-price: 3.0
+        '21':
+          type: SHOP
+          id: GREEN_TERRACOTTA
+          sell-price: 3.0
+        '22':
+          type: SHOP
+          id: RED_TERRACOTTA
+          sell-price: 3.0
+        '23':
+          type: SHOP
+          id: BLACK_TERRACOTTA
+          sell-price: 3.0
+        '24':
+          type: SHOP
+          id: WHITE_CONCRETE
+          sell-price: 3.0
+        '25':
+          type: SHOP
+          id: ORANGE_CONCRETE
+          sell-price: 3.0
+        '26':
+          type: SHOP
+          id: MAGENTA_CONCRETE
+          sell-price: 3.0
+        '27':
+          type: SHOP
+          id: LIGHT_BLUE_CONCRETE
+          sell-price: 3.0
+        '28':
+          type: SHOP
+          id: YELLOW_CONCRETE
+          sell-price: 3.0
+        '29':
+          type: SHOP
+          id: LIME_CONCRETE
+          sell-price: 3.0
+        '30':
+          type: SHOP
+          id: PINK_CONCRETE
+          sell-price: 3.0
+        '31':
+          type: SHOP
+          id: GRAY_CONCRETE
+          sell-price: 3.0
+        '32':
+          type: SHOP
+          id: LIGHT_GRAY_CONCRETE
+          sell-price: 3.0
+        '33':
+          type: SHOP
+          id: CYAN_CONCRETE
+          sell-price: 3.0
+        '34':
+          type: SHOP
+          id: PURPLE_CONCRETE
+          sell-price: 3.0
+        '35':
+          type: SHOP
+          id: BLUE_CONCRETE
+          sell-price: 3.0
+        '36':
+          type: SHOP
+          id: BROWN_CONCRETE
+          sell-price: 3.0
+        '37':
+          type: SHOP
+          id: GREEN_CONCRETE
+          sell-price: 3.0
+        '38':
+          type: SHOP
+          id: RED_CONCRETE
+          sell-price: 3.0
+        '39':
+          type: SHOP
+          id: BLACK_CONCRETE
+          sell-price: 3.0
+        '40':
+          type: SHOP
+          id: SEA_LANTERN
+          sell-price: 3.0
+        '41':
+          type: SHOP
+          id: PACKED_ICE
+          sell-price: 3.0
         '42':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '

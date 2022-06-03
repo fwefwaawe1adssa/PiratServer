@@ -60,8 +60,6 @@ Menu:
         '13':
           id: BREWING_STAND
           lore:
-            - '&aLine 1'
-            - '&bLine 2'
           name: '&4Brewing'
           target-shop: 'Brewing'
         '14':
@@ -87,23 +85,14 @@ Menu:
           name: ' '
         '21':
           id: TNT
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
           name: '&4Raiding &bShop'
           target-shop: 'Raiding'
         '22':
           id: BEDROCK
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
           name: '&4Blocks'
           target-shop: 'Blocks'
         '23':
           id: EMERALD
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
           name: '&4Ore/Ingot &bShop'
           target-shop: 'Ores'
         '24':
@@ -130,22 +119,15 @@ Menu:
           target-shop: 'EnchantedBooks'
         '31':
           id: WHEAT_SEEDS
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
           name: '&4Farming/Drops'
           target-shop: 'Farming'
         '32':
-          id: GREEN_SHULKER_BOX
-          name: '&4ShulkerBox &bShop'
-          target-shop: 'Shulker'
-        '33':
           id: DIAMOND_HELMET
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
           name: '&4Armor/Gear'
           target-shop: 'Gear'
+        '33':
+          id: RED_STAINED_GLASS_PANE
+          name: ' '
         '34':
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
@@ -165,8 +147,9 @@ Menu:
           id: RED_STAINED_GLASS_PANE
           name: ' '
         '40':
-          id: BLUE_STAINED_GLASS_PANE
-          name: ' '
+          id: FISHING_ROD
+          name: '&4Fishing &bShop'
+          target-shop: 'Fishing'
         '41':
           id: RED_STAINED_GLASS_PANE
           name: ' '
@@ -250,9 +233,6 @@ Menu:
         '13':
           id: PLAYER_HEAD
           skull-uuid: 'bb6bccb6-cd90-4844-9b1b-60722b1823ae'
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
           name: '&4Head Shop'
           target-shop: 'Heads'
         '14':
@@ -277,31 +257,14 @@ Menu:
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
         '21':
-          id: POTION
-          potion-info:
-            type: INSTANT_DAMAGE
-            splash: true
-            extended: false
-            upgraded: true
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
-          name: '&4Potion &bShop'
-          target-shop: 'Potions'
+          id: RED_STAINED_GLASS_PANE
+          name: ' '
         '22':
-          id: FIREWORK_ROCKET
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
-          name: '&4Fireworks'
-          target-shop: 'Fireworks'
+          id: BLUE_STAINED_GLASS_PANE
+          name: ' '
         '23':
-          id: CHEST
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
-          name: '&4Pre-Filled Chest &bShop'
-          target-shop: 'Chests'
+          id: RED_STAINED_GLASS_PANE
+          name: ' '
         '24':
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
@@ -318,32 +281,20 @@ Menu:
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
         '29':
-          id: BOW
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
-          name: '&4Bow & Arrow Shop'
-          target-shop: 'Bow'
+          id: RED_STAINED_GLASS_PANE
+          name: ' '
         '30':
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
         '31':
-          id: CREEPER_SPAWN_EGG
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
-          name: '&4Egg Shop'
-          target-shop: 'Eggs'
+          id: RED_STAINED_GLASS_PANE
+          name: ' '
         '32':
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
         '33':
-          id: POPPY
-          lore:
-            - '&aLine 1'
-            - '&bLine 2'
-          name: '&4Flower / Decor Shop'
-          target-shop: 'Flowers'
+          id: RED_STAINED_GLASS_PANE
+          name: ' '
         '34':
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
